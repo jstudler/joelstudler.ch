@@ -1,4 +1,4 @@
-baseURL = "https://joelstudler.pages.dev/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Joel Studler"
 theme = "minimal"
