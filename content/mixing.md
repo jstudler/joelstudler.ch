@@ -4,7 +4,7 @@ title: Mixing
 
 {{< figure src="mixing.gif" width="100%" >}}
 
-I work as a mixing engineer for both live recordings and studio work. Please get in touch if you want to learn more. Down below you can find a few samples of some of my work.
+I work as a mixing engineer for both live recordings and studio work. Please [get in touch](#contact) if you want to learn more. Down below you can find a few samples of some of my work.
 
 ## Listen yourself
 
