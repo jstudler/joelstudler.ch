@@ -34,4 +34,14 @@ I work as both a live and studio drummer. Mostly groove stuff. I've studied Jazz
 
 {{< vimeo 592367884 >}}
 
+&nbsp;
+
 {{< youtube U6QSrDWZquU >}}
+
+&nbsp;
+
+{{< youtube hdKG6jt8DKM >}}
+
+&nbsp;
+
+{{< figure src="joel-studler-2020-drums-front.jpg" width="100%" >}}

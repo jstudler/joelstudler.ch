@@ -1,0 +1,26 @@
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Act</th>
+            <th>Location</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $.Site.Data.shows }}
+
+        <tr>
+            <td>{{ .date }}</td>
+            <td>
+                {{ range where $.Site.Data.acts "act" .act }}<a href="{{ .url }}" target="_blank">{{ end }}
+                {{ .act }}
+                {{ range where $.Site.Data.acts "act" .act }}</a>{{ end }}
+                {{ range where $.Site.Data.acts "act" .act }}{{ if .ig }}&nbsp;<a href="https://www.instagram.com/{{ .ig }}" target="_blank"><i class="fas 2x fa-instagram "></i></a>{{ end }}{{ end }}
+            </td>
+            <td><a href="https://maps.google.com/?q={{ if ne .location "" }}{{ .location }}{{ end }}{{ if and (ne .location "") (ne .city "") }}, {{ end }}{{ if ne .city "" }}{{ .city }}{{ end }}" target="_blank">
+                {{ if ne .location "" }}{{ .location }}{{ end }}{{ if and (ne .location "") (ne .city "") }}, {{ end }}{{ if ne .city "" }}{{ .city }}{{ end }}
+            </a></td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
