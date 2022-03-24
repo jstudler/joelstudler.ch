@@ -20,11 +20,11 @@ REEL BEETZ is the producer name of drummer Joel Studler. With great love for mel
 
 ## Have a listen
 
-{{< youtube c48Ht2xGQCY >}}
+{{< youtube v8GipfWsAeE >}}
 
 &nbsp;
 
-{{< youtube v8GipfWsAeE >}}
+{{< youtube c48Ht2xGQCY >}}
 
 &nbsp;
 

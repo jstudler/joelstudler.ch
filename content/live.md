@@ -8,3 +8,5 @@ title: Live
 &nbsp;
 
 {{< shows >}}
+
+{{< figure src="joel-studler-2018-drums.jpg" width="100%" >}}
