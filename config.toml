@@ -2,3 +2,8 @@ baseURL = "https://joelstudler.ch/"
 languageCode = "en-us"
 title = "Joel Studler"
 theme = "dimension"
+
+[markup]
+  defaultMarkdownHandler = 'blackFriday'
+  [markup.blackFriday]
+    hrefTargetBlank = true

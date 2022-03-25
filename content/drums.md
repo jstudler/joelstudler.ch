@@ -4,7 +4,7 @@ title: Drums
 
 {{< figure src="joel-studler-2020-drums-behind.jpg" width="100%" >}}
 
-I work as both a live and studio drummer. Mostly groove stuff. I've studied Jazz drums between 2012 and 2015 at HSLU in Lucerne, Switzerland and enjoyed drum lessons with the greats of Rico Baumann, Tobias Friedli, Christoph Steiner, Dominik Burkhalter, Norbert Pfammatter, Lenny Reece and Bernard Purdie. With more than 333 shows in my carreer I'm quite the experienced drummer for Hip-Hop, Pop, Soul and Funk. Hit me up if you would like to collab!
+I work as both a live and studio drummer. Mostly groove stuff. I've studied Jazz drums between 2012 and 2015 at HSLU in Lucerne, Switzerland and enjoyed drum lessons with the greats of Rico Baumann, Tobias Friedli, Christoph Steiner, Dominik Burkhalter, Norbert Pfammatter, Lenny Reece and Bernard Purdie. With more than 333 shows in my carreer I'm quite the experienced drummer for Hip-Hop, Pop, Soul and Funk. [Hit me up](#contact) if you would like to collab!
 
 ## Live Work
 
