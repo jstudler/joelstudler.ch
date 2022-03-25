@@ -6,7 +6,7 @@ title: Contact
 
 &nbsp;
 
-### Joel Studler
+### Joel Studler Links
 
 {{< falist >}}
 {{< faurl instagram "https://www.instagram.com/joelstudler/" >}}
@@ -14,7 +14,7 @@ title: Contact
 {{< faurl linkedin "https://www.linkedin.com/in/joelstudler/" >}}
 {{< /falist >}}
 
-### REEL BEETZ
+### REEL BEETZ Links
 
 {{< falist >}}
 {{< faurl bandcamp "https://reelbeetz.bandcamp.com/" >}}
@@ -24,3 +24,9 @@ title: Contact
 {{< faurl soundcloud "https://soundcloud.com/reelbeetz" >}}
 {{< faurl youtube "https://www.youtube.com/channel/UCTIVEOtyofZS2thmr8S-JjA" >}}
 {{< /falist >}}
+
+All pictures by [Lilian Salathé](https://www.liliansalathe.ch/)
+
+## Get In Touch
+
+{{< contact-form "xoqkyjpe" >}}
