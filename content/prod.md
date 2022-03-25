@@ -18,6 +18,8 @@ REEL BEETZ is the producer name of drummer Joel Studler. With great love for mel
 
 {{< youtube VtNMD4lCrew >}}
 
+&nbsp;
+
 ## Production History
 
 - [Garbage Collection by REEL BEETZ (2016) – beatmaking, music production, mixing of the album](https://reelbeetz.ch/garbage-collection/)

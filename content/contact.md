@@ -27,6 +27,8 @@ title: Contact
 
 All pictures by [Lilian Salathé](https://www.liliansalathe.ch/)
 
+&nbsp;
+
 ## Get In Touch
 
 {{< contact-form "xoqkyjpe" >}}
