@@ -25,7 +25,7 @@ title: Contact
 {{< faurl youtube "https://www.youtube.com/channel/UCTIVEOtyofZS2thmr8S-JjA" >}}
 {{< /falist >}}
 
-All pictures by [Lilian Salathé](https://www.liliansalathe.ch/)
+All pictures by {{< urltargetblank "Lilian Salathé" "https://www.liliansalathe.ch/" >}}
 
 &nbsp;
 
