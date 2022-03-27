@@ -32,3 +32,5 @@ All pictures by {{< urltargetblank "Lilian Salathé" "https://www.liliansalathe.
 ## Get In Touch
 
 {{< contact-form "xoqkyjpe" >}}
+
+{{< favicon >}}
