@@ -1,5 +1,6 @@
 ---
 title: Tech
+weight: 5
 ---
 
 {{< figure src="matrix.gif" width="100%" >}}

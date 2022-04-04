@@ -1,5 +1,6 @@
 ---
 title: Drums
+weight: 2
 ---
 
 {{< figure src="joel-studler-2020-drums-behind.jpg" width="100%" >}}

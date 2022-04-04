@@ -1,5 +1,6 @@
 ---
 title: Mixing
+weight: 4
 ---
 
 {{< figure src="mixing.gif" width="100%" >}}

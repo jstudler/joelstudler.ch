@@ -1,5 +1,6 @@
 ---
 title: Contact
+weight: 9
 ---
 
 {{< figure src="joel-studler-2020.jpg" width="100%" >}}
