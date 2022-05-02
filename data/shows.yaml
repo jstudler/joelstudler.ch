@@ -1,1656 +1,1566 @@
 ---
 -
-    date: 16.9.22
+    date: 19.11.2022
+    act: MISS C-LINE
+    location: Zehndermätteli im Glück
+    city: Bern
+-
+    date: 11.11.2022
+    act: Alpha La Valle
+    location: Mundwerk
+    city: Thun
+-
+    date: 26.10.2022
+    act: Steven Andrews
+    location: Werkstatt
+    city: Chur
+-
+    date: 16.09.2022
     act: Irina Mossi
     location: Music Days
     city: Stäfa
 -
-    date: 5.8.22
+    date: 15.09.2022
+    act: Steven Andrews
+    location: Parterre One
+    city: Basel
+-
+    date: 10.09.2022
+    act: Irina Mossi
+    location: Pfadi Folk Fest
+    city: Plagne
+-
+    date: 20.08.2022
+    act: Irina Mossi
+    location: Bänklifestival
+    city: Niederrohrdorf
+-
+    date: 05.08.2022
     act: Irina Mossi
     location: Lakelive
     city: Biel
 -
-    date: 30.7.22
+    date: 02.08.2022
+    act: MISS C-LINE
+    location: Bejazz
+    city: Bern
+-
+    date: 30.07.2022
     act: Jay Jules
     location: Lakelive
     city: Biel
 -
-    date: 20.7.22
+    date: 29.07.2022
+    act: MISS C-LINE
+    location: Schwimmbad
+    city: Wolhusen
+-
+    date: 20.07.2022
     act: Irina Mossi
     location: Mittwochsmusig
     city: Vogelsang
 -
-    date: 25.6.22
+    date: 01.07.2022
+    act: Irina Mossi
+    location: Bieler Braderie
+    city: Biel
+-
+    date: 25.06.2022
     act: Irina Mossi
     location: Stadtfest
     city: Bern
 -
-    date: 14.5.22
+    date: 24.06.2022
+    act: MISS C-LINE
+    location: Pärkli Jam
+    city: Basel
+-
+    date: 17.06.2022
+    act: Alpha La Valle
+    location: Mokka
+    city: Thun
+-
+    date: 26.05.2022
+    act: Alpha La Valle
+    location: Stubenkonzerte am Theaterplatz 2
+    city: Bern
+-
+    date: 14.05.2022
     act: Irina Mossi
     location: Turnhalle
     city: Bern
 -
-    date: 11.5.22
+    date: 11.05.2022
     act: MISS C-LINE
     location: Eisenwerk
     city: Frauenfeld
 -
-    date: 23.4.22
+    date: 23.04.2022
     act: MISS C-LINE
     location: BScene
     city: Basel
 -
-    date: 26.3.22
-    act: Alpha La Valle
-    location: Zehndermätteli im Glück
-    city: Bern
--
-    date: 24.3.22
-    act: Alpha La Valle
-    location: Mokka
-    city: Thun
--
-    date: 12.2.22
+    date: 12.02.2022
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 12.2.22
+    date: 12.02.2022
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 11.2.22
+    date: 11.02.2022
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 5.2.22
+    date: 05.02.2022
     act: Vida Vocal
     location: Mühle Hunziken
     city: Rubigen
 -
-    date: 28.1.22
+    date: 28.01.2022
     act: Irina Mossi
     location: MECK
     city: Frick
 -
-    date: 18.12.21
-    act: Alpha La Valle
-    location: Mundwerk
-    city: Thun
--
-    date: 9.12.21
+    date: 09.12.2021
     act: The Talk!
     location: Generationenhaus
     city: Bern
 -
-    date: 19.11.21
+    date: 19.11.2021
     act: Irina Mossi
     location: Galicia Bar
     city: Olten
 -
-    date: 30.10.21
+    date: 30.10.2021
     act: MISS C-LINE
     location: Mehrspur
     city: Zürich
 -
-    date: 22.10.21
+    date: 22.10.2021
     act: The Talk!
     location: Mahogany Hall
     city: Bern
 -
-    date: 9.10.21
+    date: 09.10.2021
     act: Irina Mossi
     location: Le Singe
     city: Biel
 -
-    date: 16.9.21
+    date: 16.09.2021
     act: The Talk!
     location: Schüür
     city: Luzern
 -
-    date: 11.9.21
+    date: 11.09.2021
     act: Burni Aman
-    location: Chutzehütte
+    location: Chutzefest, Chutzehütte
     city: Münsingen
 -
-    date: 10.9.21
-    act: MISS C-LINE
-    location: Südpol
-    city: Luzern
--
-    date: 4.9.21
+    date: 04.09.2021
     act: Lucky Wüthrich
     location: Simmentaler Bierfest
     city: Lenk
 -
-    date: 27.8.21
+    date: 27.08.2021
     act: MISS C-LINE
     location: Brupbacherplatz Fest
     city: Zürich
 -
-    date: 20.8.21
+    date: 20.08.2021
     act: MISS C-LINE
     location: Em Bebbi sy Jazz
     city: Basel
 -
-    date: 19.8.21
+    date: 19.08.2021
     act: Irina Mossi
     location: Mokka
     city: Thun
 -
-    date: 14.8.21
-    act: Jay Jules
-    location: Privatanlass
-    city: –
--
-    date: 13.8.21
+    date: 13.08.2021
     act: Jay Jules
     location: Güpfu Rave
     city: Plaffeien
 -
-    date: 30.7.21
-    act: Jay Jules
-    location: Grosse Halle
-    city: Bern
--
-    date: 22.7.21
+    date: 22.07.2021
     act: MISS C-LINE
     location: Festival Da Jazz
     city: St. Moritz
 -
-    date: 9.7.21
+    date: 09.07.2021
     act: Irina Mossi
     location: Bierhübeli
     city: Bern
 -
-    date: 25.6.21
+    date: 25.06.2021
     act: Jay Jules
     location: Summer Now
     city: Biel
 -
-    date: 21.6.21
+    date: 21.06.2021
     act: MISS C-LINE
     location: Jazzcampus
     city: Basel
 -
-    date: 17.10.20
-    act: The Talk!
-    location: Privatanlass
-    city: –
+    date: 27.02.2021
+    act: MISS C-LINE
+    location: Ghost Festival
+    city: Schweiz
 -
-    date: 9.10.20
+    date: 17.10.2020
+    act: The Talk!
+    location: Ruumstylez
+    city: Bern
+-
+    date: 09.10.2020
     act: The Talk!
     location: Café Kairo
     city: Bern
 -
-    date: 13.9.20
-    act: Jay Jules
-    location: Privatanlass
-    city: –
--
-    date: 15.8.20
+    date: 24.07.2020
     act: The Talk!
-    location: Privatanlass
-    city: –
+    location: HDW Festival
+    city: Chamby
 -
-    date: 17.7.20
+    date: 17.07.2020
     act: Jay Jules
     location: Summer Now
     city: Biel
 -
-    date: 19.6.20
+    date: 19.06.2020
     act: Jay Jules
     location: Kubus
     city: Bern
 -
-    date: 13.6.20
+    date: 13.06.2020
     act: The Talk!
-    location: Café Kairo
+    location: Ruumstylez
     city: Bern
 -
-    date: 9.5.20
-    act: The Talk!
-    location: Café Kairo
+    date: 29.05.2020
+    act: Jay Jules
+    location: Gaskessel
     city: Bern
 -
-    date: 4.4.20
-    act: The Talk!
-    location: Café Kairo
-    city: Bern
--
-    date: 14.3.20
-    act: The Talk!
-    location: Café Kairo
-    city: Bern
--
-    date: 27.2.20
+    date: 27.02.2020
     act: Vida Vocal
     location: Mühle Hunziken
     city: Rubigen
 -
-    date: 15.2.20
+    date: 15.02.2020
     act: The Talk!
     location: Mokka
     city: Thun
 -
-    date: 8.2.20
+    date: 08.02.2020
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 8.2.20
+    date: 08.02.2020
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 7.2.20
+    date: 07.02.2020
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 25.1.20
+    date: 25.01.2020
     act: The Talk!
     location: Café Kairo
     city: Bern
 -
-    date: 27.12.19
+    date: 27.12.2019
     act: The Talk!
     location: Turnhalle
     city: Bern
 -
-    date: 20.12.19
+    date: 20.12.2019
     act: Selected Soul
     location: Grosse Halle
     city: Bern
 -
-    date: 19.12.19
+    date: 19.12.2019
     act: Burni Aman
     location: Gärtnerei Maurer
     city: Münsingen
 -
-    date: 19.12.19
-    act: Burni Aman
-    location: Gärtnerei Maurer
-    city: Münsingen
--
-    date: 18.12.19
+    date: 18.12.2019
     act: Funk off Dudes
     location: Bar 59
     city: Luzern
 -
-    date: 12.12.19
+    date: 12.12.2019
     act: MISS C-LINE
     location: Heimat
     city: Basel
 -
-    date: 7.12.19
+    date: 08.12.2019
+    act: Rhonda Dorsey Gospel Experience
+    location: Kirche Riggisberg
+    city: Riggisberg
+-
+    date: 07.12.2019
     act: The Talk!
     location: Café Kairo
     city: Bern
 -
-    date: 7.12.19
+    date: 07.12.2019
     act: Rhonda Dorsey Gospel Experience
     location: Eventfabrik
     city: Bern
 -
-    date: 6.12.19
+    date: 06.12.2019
     act: Rhonda Dorsey Gospel Experience
     location: Eventfabrik
     city: Bern
 -
-    date: 30.11.19
+    date: 30.11.2019
     act: MISS C-LINE
     location: Anthra
     city: Thun
 -
-    date: 16.11.19
+    date: 16.11.2019
     act: Jay Jules
     location: City Pub
     city: Bern
 -
-    date: 15.11.19
+    date: 15.11.2019
     act: The Talk!
     location: Café Kairo
     city: Bern
 -
-    date: 9.11.19
+    date: 09.11.2019
     act: Funk off Dudes
     location: Gonzo
     city: Zürich
 -
-    date: 26.10.19
+    date: 26.10.2019
     act: The Talk!
-    location: Les Amis / Wohnzimmer
+    location: Les Amis
     city: Bern
 -
-    date: 11.10.19
-    act: The Talk!
-    location: Café Kairo
-    city: Bern
--
-    date: 28.9.19
+    date: 11.10.2019
     act: The Talk!
     location: Café Kairo
     city: Bern
 -
-    date: 14.9.19
+    date: 28.09.2019
+    act: The Talk!
+    location: Café Kairo
+    city: Bern
+-
+    date: 14.09.2019
     act: MISS C-LINE
     location: Behind The Bush
     city: Lichtensteig
 -
-    date: 7.9.19
+    date: 07.09.2019
     act: The Talk!
     location: Herzogstrassenfest
     city: Bern
 -
-    date: 30.8.19
+    date: 30.08.2019
     act: Burni Aman
     location: ISC
     city: Bern
 -
-    date: 21.8.19
+    date: 21.08.2019
     act: MISS C-LINE
     location: Canjazz
-    city: Cangas
+    city: Cangas, Spanien
 -
-    date: 14.8.19
+    date: 14.08.2019
     act: Frost & Fog
     location: Film Festival
     city: Locarno
 -
-    date: 12.8.19
+    date: 12.08.2019
     act: Jay Jules
     location: Schulhaus Morrillon
     city: Wabern
 -
-    date: 10.8.19
+    date: 10.08.2019
     act: MC Juli
     location: Thunfest
     city: Thun
 -
-    date: 10.8.19
+    date: 10.08.2019
     act: The Talk!
     location: Openair am Bielersee
     city: Vinelz
 -
-    date: 8.8.19
+    date: 08.08.2019
     act: MISS C-LINE
     location: Musik Im Park
     city: Liebefeld
 -
-    date: 3.8.19
+    date: 03.08.2019
     act: Burni Aman
     location: GloryFestival
     city: Bern
 -
-    date: 2.8.19
+    date: 02.08.2019
     act: The Talk!
     location: GloryFestival
     city: Bern
 -
-    date: 26.7.19
+    date: 26.07.2019
     act: The Talk!
     location: Schützenmatte
     city: Bern
 -
-    date: 23.7.19
+    date: 23.07.2019
     act: Burni Aman
-    location: Barbengo aka Boui-Boui
+    location: Barbengo / Boui-Boui
     city: Brenzikofen
 -
-    date: 19.7.19
+    date: 19.07.2019
     act: Jay Jules
     location: Gurtenfestival
     city: Bern
 -
-    date: 6.7.19
+    date: 06.07.2019
     act: MISS C-LINE
     location: Treibhaus
     city: Luzern
 -
-    date: 5.7.19
+    date: 05.07.2019
     act: Frost & Fog
     location: Eigerrock
     city: Grindelwald
 -
-    date: 29.6.19
+    date: 29.06.2019
     act: MISS C-LINE
     location: Openair Thun
     city: Thun
 -
-    date: 28.6.19
+    date: 28.06.2019
     act: MISS C-LINE
     location: Gaskessel
     city: Bern
 -
-    date: 15.6.19
+    date: 15.06.2019
     act: Selected Soul
     location: Centre Culturel du Manoir
     city: Cologny
 -
-    date: 13.6.19
+    date: 13.06.2019
     act: Burni Aman
     location: Heiliggeistkirche
     city: Bern
 -
-    date: 7.6.19
+    date: 07.06.2019
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 25.5.19
+    date: 25.05.2019
     act: Jay Jules
     location: Becanto
     city: Bern
 -
-    date: 24.5.19
+    date: 24.05.2019
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 4.5.19
+    date: 04.05.2019
     act: The Talk!
     location: Design Festival
     city: Bern
 -
-    date: 2.5.19
+    date: 02.05.2019
+    act: MISS C-LINE
+    location: Quasimodo
+    city: Bern
+-
+    date: 02.05.2019
     act: PeWe & Don
     location: Quasimodo
     city: Bern
 -
-    date: 2.5.19
-    act: MISS C-LINE
-    location: Quasimodo
-    city: Bern
+    date: 27.04.2019
+    act: Vida Vocal
+    location: Hallentennisklub
+    city: Münsingen
 -
-    date: 27.4.19
+    date: 27.04.2019
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 27.4.19
-    act: Vida Vocal
-    location: Privatanlass
-    city: –
--
-    date: 19.4.19
+    date: 19.04.2019
     act: MISS C-LINE
     location: Café Kairo
     city: Bern
 -
-    date: 5.4.19
+    date: 05.04.2019
     act: MISS C-LINE
     location: Café Parterre
     city: Luzern
 -
-    date: 30.3.19
+    date: 30.03.2019
     act: Saymen
     location: Matte Brennerei
     city: Bern
 -
-    date: 22.3.19
+    date: 22.03.2019
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 2.3.19
+    date: 02.03.2019
     act: Jay Jules
     location: Dachstock
     city: Bern
 -
-    date: 1.3.19
+    date: 01.03.2019
     act: Frost & Fog
     location: Mokka
     city: Thun
 -
-    date: 23.2.19
+    date: 23.02.2019
     act: The Talk!
     location: Wash Bar
     city: Bern
 -
-    date: 15.2.19
+    date: 15.02.2019
     act: Jay Jules
     location: Gaskessel
     city: Bern
 -
-    date: 9.2.19
+    date: 09.02.2019
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 9.2.19
+    date: 09.02.2019
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 8.2.19
+    date: 08.02.2019
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 30.1.19
+    date: 30.01.2019
     act: The Talk!
     location: Bar 59
     city: Luzern
 -
-    date: 26.1.19
+    date: 26.01.2019
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 30.12.18
+    date: 30.12.2018
     act: MC Juli
     location: Anker
     city: Interlaken
 -
-    date: 29.12.18
+    date: 29.12.2018
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 19.12.18
+    date: 19.12.2018
     act: The Soul Jukebox
-    location: Privatanlass
-    city: –
+    location: HSLU
+    city: Luzern
 -
-    date: 7.12.18
+    date: 07.12.2018
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 6.12.18
+    date: 06.12.2018
     act: Jay Jules
-    location: Les Amis / Wohnzimmer
+    location: Les Amis
     city: Bern
 -
-    date: 30.11.18
+    date: 30.11.2018
     act: MISS C-LINE
     location: Wash Bar
     city: Bern
 -
-    date: 10.11.18
+    date: 10.11.2018
     act: Saymen
-    location: Theater Casino Zug
+    location: Casino on Stage, Theater Casino Zug
     city: Zug
 -
-    date: 9.11.18
-    act: Burni Aman
-    location: Gaskessel
-    city: Bern
--
-    date: 9.11.18
+    date: 09.11.2018
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 27.10.18
+    date: 09.11.2018
+    act: Burni Aman
+    location: Gaskessel
+    city: Bern
+-
+    date: 27.10.2018
     act: Saymen
     location: Fri-Son
     city: Fribourg
 -
-    date: 21.10.18
+    date: 21.10.2018
     act: Jay Jules
-    location: Helvetiaplatz
+    location: Autofreier Sonntag Helvetiaplatz
     city: Bern
 -
-    date: 12.10.18
+    date: 12.10.2018
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 28.9.18
+    date: 28.09.2018
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 22.9.18
+    date: 22.09.2018
+    act: David Emanuel
+    location: Druckerei
+    city: Baden
+-
+    date: 22.09.2018
     act: Burni Aman
     location: Graffiti
     city: Bern
 -
-    date: 22.9.18
-    act: David Emanuel
-    location: Privatanlass
-    city: –
--
-    date: 21.9.18
+    date: 21.09.2018
     act: MC Juli
     location: Caverne
     city: Interlaken
 -
-    date: 14.9.18
+    date: 14.09.2018
     act: Jay Jules
     location: Treibhaus
     city: Luzern
 -
-    date: 30.8.18
-    act: Joel Studler
+    date: 30.08.2018
+    act: Joel Studler Solo
     location: Atelierturm
     city: Bern
 -
-    date: 23.8.18
-    act: Joel Studler
+    date: 23.08.2018
+    act: Joel Studler Solo
     location: Atelierturm
     city: Bern
 -
-    date: 17.8.18
+    date: 17.08.2018
     act: Frost & Fog
     location: Guhü
-    city: Wasen im Emmental
+    city: Lüderenalp
 -
-    date: 16.8.18
-    act: Joel Studler
+    date: 16.08.2018
+    act: Joel Studler Solo
     location: Atelierturm
     city: Bern
 -
-    date: 15.8.18
+    date: 15.08.2018
     act: The Talk!
-    location: Neustadt-lab
+    location: Neustadt Lab
     city: Bern
 -
-    date: 10.8.18
+    date: 10.08.2018
     act: Frost & Fog
     location: Thunfest
     city: Thun
 -
-    date: 9.8.18
-    act: Joel Studler
+    date: 09.08.2018
+    act: Joel Studler Solo
     location: Atelierturm
     city: Bern
 -
-    date: 20.7.18
+    date: 20.07.2018
     act: Burni Aman
     location: Parkonia
     city: Bern
 -
-    date: 4.7.18
+    date: 04.07.2018
     act: Saymen
     location: Theater Hintercher
     city: Schmitten
 -
-    date: 3.7.18
+    date: 03.07.2018
     act: Saymen
     location: Theater Hintercher
     city: Schmitten
 -
-    date: 1.7.18
+    date: 01.07.2018
     act: Burni Aman
     location: In-Cité
     city: Lausanne
 -
-    date: 29.6.18
+    date: 29.06.2018
     act: The Soul Jukebox
     location: Wagen Zum Glück
     city: Worblaufen
 -
-    date: 15.6.18
+    date: 15.06.2018
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 2.6.18
+    date: 02.06.2018
     act: Frost & Fog
     location: Music Days
     city: Steffisburg
 -
-    date: 18.5.18
+    date: 18.05.2018
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 13.5.18
+    date: 13.05.2018
     act: Jay Jules
     location: Dachstock
     city: Bern
 -
-    date: 21.4.18
+    date: 21.04.2018
     act: Pätschwerk
     location: Bräkerplatz
     city: Wattwil
 -
-    date: 20.4.18
+    date: 20.04.2018
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 13.4.18
+    date: 13.04.2018
     act: The Talk!
     location: Radio RaBe
     city: Bern
 -
-    date: 7.4.18
+    date: 07.04.2018
     act: MC Juli
     location: Snowpenair
     city: Kleine Scheidegg
 -
-    date: 23.3.18
+    date: 23.03.2018
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 17.3.18
+    date: 17.03.2018
     act: Burni Aman
     location: Matte Brennerei
     city: Bern
 -
-    date: 10.2.18
+    date: 10.02.2018
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 10.2.18
+    date: 10.02.2018
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 9.2.18
+    date: 09.02.2018
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 2.2.18
+    date: 02.02.2018
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 20.1.18
+    date: 20.01.2018
     act: Burni Aman
     location: Rümpeltum
     city: St. Gallen
 -
-    date: 11.1.18
+    date: 11.01.2018
     act: Pätschwerk
-    location: Privatanlass
-    city: –
+    location: Foccaceria
+    city: Wil
 -
-    date: 20.12.17
+    date: 20.12.2017
     act: The Soul Jukebox
-    location: Privatanlass
-    city: –
+    location: HSLU
+    city: Luzern
 -
-    date: 16.12.17
+    date: 16.12.2017
     act: Saymen
     location: Mahogany Hall
     city: Bern
 -
-    date: 9.12.17
-    act: The Talk!
-    location: Privatanlass
-    city: –
--
-    date: 1.12.17
+    date: 01.12.2017
     act: Pätschwerk
-    location: Privatanlass
-    city: –
+    location: Kraftwerk
+    city: Krummenau
 -
-    date: 26.11.17
-    act: The Bee’s Knees
-    location: Stir It!
-    city: Zurich
+    date: 26.11.2017
+    act: 'The Bee''s Knees'
+    location: Stir It
+    city: Zürich
 -
-    date: 25.11.17
-    act: The Bee’s Knees
-    location: Stir It!
-    city: Zurich
+    date: 25.11.2017
+    act: 'The Bee''s Knees'
+    location: Stir It
+    city: Zürich
 -
-    date: 18.11.17
+    date: 18.11.2017
     act: The Talk!
-    location: Privatanlass
-    city: –
+    location: Ruum
+    city: Ostermundigen
 -
-    date: 17.11.17
+    date: 17.11.2017
     act: Jay Jules
     location: Rössli
     city: Bern
 -
-    date: 9.11.17
+    date: 09.11.2017
     act: Frost & Fog
     location: Gustav
     city: Bern
 -
-    date: 1.11.17
+    date: 01.11.2017
     act: The Talk!
     location: Matte Brennerei
     city: Bern
 -
-    date: 28.10.17
+    date: 28.10.2017
     act: Frost & Fog
-    location: Mundwerk
+    location: Kulturnacht
     city: Thun
 -
-    date: 28.10.17
-    act: Frost & Fog
-    location: Mundwerk
-    city: Thun
--
-    date: 21.10.17
-    act: The Talk!
-    location: Privatanlass
-    city: –
--
-    date: 17.9.17
+    date: 17.09.2017
     act: Frost & Fog
     location: Vale
     city: Thun
 -
-    date: 16.9.17
+    date: 16.09.2017
     act: Burni Aman
-    location: Graffiti
+    location: Graffitti
     city: Bern
 -
-    date: 15.9.17
-    act: The Talk!
-    location: Privatanlass
-    city: –
--
-    date: 26.8.17
-    act: The Talk!
-    location: Privatanlass
-    city: –
--
-    date: 28.7.17
-    act: Pätschwerk
-    location: Privatanlass
-    city: –
--
-    date: 21.7.17
+    date: 21.07.2017
     act: The Talk!
     location: Radio RaBe
     city: Bern
 -
-    date: 8.7.17
+    date: 08.07.2017
     act: Frost & Fog
     location: Cholerock
     city: Hünibach
 -
-    date: 7.7.17
+    date: 07.07.2017
     act: MC Juli
     location: Marktplatz
     city: Interlaken
 -
-    date: 1.7.17
+    date: 01.07.2017
     act: Frost & Fog
-    location: Natural Sound
+    location: Natural Sound Openair
     city: Kiental
 -
-    date: 17.5.17
+    date: 17.05.2017
     act: Frost & Fog
-    location: Spinnerei Via Felsenau
+    location: Via Felsenau (Spinnerei)
     city: Bern
 -
-    date: 16.4.17
+    date: 16.04.2017
     act: MC Juli
     location: The Legacy
     city: Thun
 -
-    date: 23.2.17
+    date: 25.03.2017
+    act: Gemischter Chor Freimettingen
+    location: Schule
+    city: Freimettingen
+-
+    date: 24.03.2017
+    act: Gemischter Chor Freimettingen
+    location: Schule
+    city: Freimettingen
+-
+    date: 23.02.2017
     act: David Emanuel
     location: Werkhof 102
     city: Bern
 -
-    date: 11.2.17
+    date: 11.02.2017
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 11.2.17
+    date: 11.02.2017
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 10.2.17
+    date: 10.02.2017
     act: Vida Vocal
     location: Gaskessel
     city: Bern
 -
-    date: 3.2.17
+    date: 03.02.2017
     act: REEL BEETZ
     location: Mahogany Hall
     city: Bern
 -
-    date: 17.12.16
-    act: REEL BEETZ
+    date: 17.12.2016
+    act: Ruumstylez
     location: Mahogany Hall
     city: Bern
 -
-    date: 9.12.16
+    date: 09.12.2016
     act: RE:ACT
     location: Playground Lounge
     city: Bern
 -
-    date: 13.11.16
-    act: The Bee’s Knees
-    location: Stir It!
-    city: Zurich
+    date: 13.11.2016
+    act: 'The Bee''s Knees'
+    location: Stir It
+    city: Zürich
 -
-    date: 12.11.16
-    act: The Bee’s Knees
-    location: Stir It!
-    city: Zurich
+    date: 12.11.2016
+    act: 'The Bee''s Knees'
+    location: Stir It
+    city: Zürich
 -
-    date: 29.10.16
+    date: 28.10.2016
     act: MC Juli
     location: Anker
     city: Interlaken
 -
-    date: 28.10.16
+    date: 27.10.2016
     act: Frost & Fog
     location: Farelhaus
     city: Biel
 -
-    date: 26.10.16
+    date: 26.10.2016
     act: Ape Dave
     location: Bar 59
     city: Luzern
 -
-    date: 22.10.16
-    act: Pätschwerk
-    location: Privatanlass
-    city: –
--
-    date: 24.9.16
-    act: Despina & The Bee’s Knees
-    location: Privatanlass
-    city: –
--
-    date: 10.9.16
-    act: Despina & The Bee’s Knees
-    location: Privatanlass
-    city: –
--
-    date: 3.9.16
-    act: Frost & Fog
-    location: World Food Festival
-    city: Unterseen
--
-    date: 27.8.16
+    date: 27.08.2016
     act: MC Juli
     location: Caverne
     city: Interlaken
 -
-    date: 20.8.16
+    date: 20.08.2016
     act: David Emanuel
-    location: Stadtfest
+    location: Stadtfest Brünnen
     city: Bern
 -
-    date: 19.8.16
+    date: 19.08.2016
     act: MC Juli
-    location: Outdoor Festival
+    location: 125 Jahre Interlaken
     city: Interlaken
 -
-    date: 12.8.16
+    date: 12.08.2016
     act: David Emanuel
-    location: Seehotel Bären
+    location: Montreux Meets Brienz
     city: Brienz
 -
-    date: 11.8.16
+    date: 11.08.2016
     act: David Emanuel
-    location: Seehotel Bären
+    location: Montreux Meets Brienz
     city: Brienz
 -
-    date: 30.7.16
-    act: Frost & Fog
-    location: Hünegg Openair
-    city: Hilterfingen
--
-    date: 23.7.16
-    act: REEL BEETZ
-    location: Privatanlass
-    city: –
--
-    date: 14.7.16
+    date: 04.07.2016
     act: Frost & Fog
     location: Gurtenfestival
     city: Bern
 -
-    date: 2.7.16
-    act: Pätschwerk
-    location: Privatanlass
-    city: –
--
-    date: 24.6.16
-    act: The Soul Jukebox
-    location: Privatanlass
-    city: –
--
-    date: 18.6.16
+    date: 18.06.2016
     act: David Emanuel
     location: Bundesplatz
     city: Bern
 -
-    date: 14.6.16
+    date: 14.06.2016
     act: David Emanuel
-    location: The Fiddler’s Elbow
+    location: The Fiddlers Elbow
     city: London
 -
-    date: 28.5.16
+    date: 28.05.2016
     act: David Emanuel
     location: Lauter Festival
     city: Zürich
 -
-    date: 21.5.16
+    date: 27.05.2016
+    act: RE:ACT
+    location: Turnhalle
+    city: Bern
+-
+    date: 21.05.2016
     act: Frost & Fog
     location: Mundwerk
     city: Thun
 -
-    date: 14.5.16
+    date: 14.05.2016
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 1.5.16
+    date: 01.05.2016
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 1.5.16
+    date: 01.05.2016
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 1.5.16
-    act: 1blick
-    location: Vineyard Bern
+    date: 30.04.2016
+    act: 'Despina & The Bee''s Knees'
+    location: Aula im Progr
     city: Bern
 -
-    date: 30.4.16
-    act: Despina & The Bee’s Knees
-    location: Aula im PROGR
-    city: Bern
--
-    date: 29.4.16
+    date: 29.04.2016
     act: David Emanuel
     location: Mahogany Hall
     city: Bern
 -
-    date: 21.4.16
+    date: 21.04.2016
     act: David Emanuel
     location: Bar 59
     city: Luzern
 -
-    date: 15.4.16
-    act: Despina & The Bee’s Knees
+    date: 15.04.2016
+    act: 'Despina & The Bee''s Knees'
     location: Talhof
     city: St. Gallen
 -
-    date: 12.4.16
+    date: 12.04.2016
     act: David Emanuel
     location: Dynamo
     city: Zürich
 -
-    date: 8.4.16
+    date: 08.04.2016
     act: David Emanuel
     location: Werkk
     city: Baden
 -
-    date: 30.3.16
+    date: 30.03.2016
     act: David Emanuel
     location: Le XXe
     city: Fribourg
 -
-    date: 4.12.15
+    date: 04.12.2015
     act: Frost & Fog
-    location: AKuT
+    location: Akut
     city: Thun
 -
-    date: 28.11.15
-    act: REEL BEETZ
-    location: Privatanlass
-    city: –
--
-    date: 27.11.15
+    date: 27.11.2015
     act: PuSo
     location: Bierhübeli
     city: Bern
 -
-    date: 26.11.15
-    act: Jazz Jam
-    location: Gewerbehalle
-    city: Luzern
+    date: 08.11.2015
+    act: 'The Bee''s Knees'
+    location: Stir It
+    city: Zürich
 -
-    date: 8.11.15
-    act: Despina & The Bee’s Knees
-    location: Stir It!
-    city: Zurich
+    date: 08.11.2015
+    act: 'Despina & The Bee''s Knees'
+    location: Stir It
+    city: Zürich
 -
-    date: 31.10.15
+    date: 07.11.2015
+    act: 'The Bee''s Knees'
+    location: Stir It
+    city: Zürich
+-
+    date: 31.10.2015
     act: The Soul Jukebox
-    location: Aula Worbboden
+    location: Oberstufenzentrum
     city: Worb
 -
-    date: 18.10.15
+    date: 18.10.2015
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 18.10.15
+    date: 18.10.2015
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 17.10.15
-    act: Despina & The Bee’s Knees
+    date: 17.10.2015
+    act: 'Despina & The Bee''s Knees'
     location: sousol
     city: Luzern
 -
-    date: 20.9.15
+    date: 20.09.2015
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 12.9.15
+    date: 12.09.2015
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 5.9.15
+    date: 05.09.2015
     act: Pätschwerk
-    location: Kletterhalle
+    location: 6a plus Kletterhalle
     city: Winterthur
 -
-    date: 29.8.15
+    date: 29.08.2015
     act: David Emanuel
     location: Dorffest Gansingen
     city: Gansingen
 -
-    date: 27.8.15
+    date: 27.08.2015
     act: David Emanuel
-    location: Seehotel Bären
+    location: Montreux Meets Brienz
     city: Brienz
 -
-    date: 31.7.15
+    date: 31.07.2015
     act: David Emanuel
     location: Openair Evergrin
     city: Gadmen
 -
-    date: 7.7.15
-    act: David Emanuel
-    location: Messe Luzern
-    city: Luzern
--
-    date: 4.7.15
+    date: 04.07.2015
     act: David Emanuel
     location: Gärtnerei Maurer
     city: Münsingen
 -
-    date: 1.7.15
+    date: 01.07.2015
     act: JOUB
     location: ONO
     city: Bern
 -
-    date: 24.6.15
-    act: Jazzschule Luzern
-    location: Jazzkantine
-    city: Luzern
--
-    date: 13.6.15
+    date: 13.06.2015
     act: Musical Grease
-    location: IPH Hitzkirch
+    location: IPH
     city: Hitzkirch
 -
-    date: 13.6.15
+    date: 13.06.2015
     act: Musical Grease
-    location: IPH Hitzkirch
+    location: IPH
     city: Hitzkirch
 -
-    date: 12.6.15
+    date: 12.06.2015
     act: Musical Grease
-    location: IPH Hitzkirch
+    location: IPH
     city: Hitzkirch
 -
-    date: 12.6.15
+    date: 12.06.2015
     act: Musical Grease
-    location: IPH Hitzkirch
+    location: IPH
     city: Hitzkirch
 -
-    date: 11.6.15
+    date: 11.06.2015
     act: Musical Grease
-    location: IPH Hitzkirch
+    location: IPH
     city: Hitzkirch
 -
-    date: 11.6.15
+    date: 11.06.2015
     act: Musical Grease
-    location: IPH Hitzkirch
+    location: IPH
     city: Hitzkirch
 -
-    date: 30.5.15
+    date: 30.05.2015
     act: Funk off Dudes
     location: Treibhaus
     city: Luzern
 -
-    date: 18.5.15
-    act: Jazzschule Luzern
-    location: Jazzkantine
-    city: Luzern
--
-    date: 10.5.15
+    date: 10.05.2015
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 2.5.15
+    date: 05.05.2015
+    act: The Soul Jukebox
+    location: Restaurant
+    city: Stockhorn
+-
+    date: 02.05.2015
     act: JOUB
-    location: Kornhauskeller
+    location: Kornhaus
     city: Bern
 -
-    date: 25.4.15
+    date: 25.04.2015
     act: PuSo
-    location: Wangenstrasse 9
+    location: Bümpliz Schulhaus
     city: Bern
 -
-    date: 18.4.15
+    date: 18.04.2015
     act: trio15
     location: Gestalterei
     city: Ittigen
 -
-    date: 4.4.15
+    date: 04.04.2015
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 21.3.15
-    act: Despina & The Bee’s Knees
-    location: Tanzwolke
+    date: 21.03.2015
+    act: 'Despina & The Bee''s Knees'
+    location: Huus Got The BlueZH?
     city: Zürich
 -
-    date: 19.3.15
+    date: 19.03.2015
     act: 80ies Vibes
     location: Jazzkantine
     city: Luzern
 -
-    date: 11.3.15
+    date: 11.03.2015
     act: Funk off Dudes
     location: Jazzkantine
     city: Luzern
 -
-    date: 10.3.15
+    date: 10.03.2015
     act: REEL BEETZ
     location: Jazzkantine
     city: Luzern
 -
-    date: 7.3.15
+    date: 07.03.2015
     act: Funk off Dudes
-    location: Olten
-    city: Olten
+    location: Bärenkeller
+    city: Aarburg
 -
-    date: 1.3.15
+    date: 01.03.2015
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 20.2.15
+    date: 20.02.2015
     act: REEL BEETZ
     location: Prima Luna
     city: Bern
 -
-    date: 15.2.15
-    act: Ref. Kirche Ittigen
-    location: Kirche
-    city: Ittigen
--
-    date: 1.2.15
+    date: 01.02.2015
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 20.1.15
+    date: 20.01.2015
     act: Wheels of Groove
     location: Jazzkantine
     city: Luzern
 -
-    date: 17.1.15
+    date: 17.01.2015
     act: David Emanuel
     location: Bad Bonn
     city: Düdingen
 -
-    date: 8.1.15
-    act: The Grassroot Ensemble
-    location: Kulturlabor Thalwil
+    date: 08.01.2015
+    act: Grassroot Ensemble
+    location: Kulturlabor
     city: Thalwil
 -
-    date: 21.12.14
-    act: Tracey Campbell
-    location: Pauluskirche
-    city: Bern
--
-    date: 13.12.14
-    act: Despina & The Bee’s Knees
-    location: Huus Got The BlueZH
+    date: 13.12.2014
+    act: 'Despina & The Bee''s Knees'
+    location: Huus Got The BlueZH?
     city: Zürich
 -
-    date: 4.12.14
-    act: The Grassroot Ensemble
-    location: Kulturlabor Thalwil
+    date: 04.12.2014
+    act: Grassroot Ensemble
+    location: Kulturlabor
     city: Thalwil
 -
-    date: 30.11.14
+    date: 30.11.2014
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 6.11.14
-    act: The Grassroot Ensemble
-    location: Kulturlabor Thalwil
+    date: 06.11.2014
+    act: Grassroot Ensemble
+    location: Kulturlabor
     city: Thalwil
 -
-    date: 10.10.14
+    date: 10.10.2014
     act: trio15
     location: Alte Schmitte
     city: Steffisburg
 -
-    date: 2.10.14
-    act: The Grassroot Ensemble
-    location: Kulturlabor Thalwil
+    date: 02.10.2014
+    act: Grassroot Ensemble
+    location: Kulturlabor
     city: Thalwil
 -
-    date: 13.9.14
+    date: 13.09.2014
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 20.8.14
+    date: 20.08.2014
     act: David Emanuel
-    location: Seehotel Bären
+    location: Montreux Meets Brienz
     city: Brienz
 -
-    date: 13.7.14
-    act: Vineyard Bern
-    location: Vineyard Bern
+    date: 13.07.2014
+    act: 1blick
+    location: Vineyard
     city: Bern
 -
-    date: 13.7.14
-    act: Vineyard Bern
-    location: Vineyard Bern
+    date: 13.07.2014
+    act: 1blick
+    location: Vineyard
     city: Bern
 -
-    date: 12.7.14
-    act: AudiEL
-    location: Vineyard Bern
+    date: 12.07.2014
+    act: Audiel
+    location: Vineyard
     city: Bern
 -
-    date: 27.6.14
+    date: 27.06.2014
     act: JOUB
     location: ONO
     city: Bern
 -
-    date: 16.6.14
-    act: Jazzschule Luzern
-    location: Jazzkantine
-    city: Luzern
--
-    date: 18.5.14
+    date: 18.05.2014
     act: JOUB
-    location: Jardin
+    location: Hotel Jardin
     city: Bern
 -
-    date: 17.5.14
+    date: 17.05.2014
     act: JOUB
-    location: Jardin
+    location: Hotel Jardin
     city: Bern
 -
-    date: 16.5.14
+    date: 16.05.2014
     act: JOUB
-    location: Jardin
+    location: Hotel Jardin
     city: Bern
 -
-    date: 5.5.14
+    date: 05.05.2014
     act: David Emanuel
-    location: Il Caffe
+    location: Acoustic Elite Monday
     city: Langnau
 -
-    date: 4.5.14
+    date: 04.05.2014
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 8.4.14
-    act: Jazzschule Luzern
-    location: Jazzkantine
-    city: Luzern
--
-    date: 5.4.14
+    date: 05.04.2014
     act: David Emanuel
-    location: Kunsthaus
+    location: Chamäleon Session
     city: Interlaken
 -
-    date: 14.3.14
-    act: Jazz Jam
-    location: Alte Schmitte
-    city: Steffisburg
--
-    date: 2.3.14
+    date: 02.03.2014
     act: 1blick
-    location: Vineyard Bern
+    location: Vineyard
     city: Bern
 -
-    date: 25.1.14
-    act: Drummer Workshop
-    location: Jazzkantine
-    city: Luzern
--
-    date: 7.1.14
-    act: Afrobeasts
-    location: Jazzkantine
-    city: Luzern
--
-    date: 14.11.13
-    act: Jazz Jam
-    location: Gewerbehalle
-    city: Luzern
--
-    date: 12.10.13
-    act: Vineyard Bern
-    location: Vineyard Bern
+    date: 12.10.2013
+    act: 1blick
+    location: Vineyard
     city: Bern
 -
-    date: 10.10.13
+    date: 10.10.2013
     act: David Emanuel
     location: Gewerbehalle
     city: Luzern
 -
-    date: 5.10.13
+    date: 05.10.2013
     act: David Emanuel
     location: Restaurant Lokal
     city: Bern
 -
-    date: 3.10.13
+    date: 03.10.2013
     act: David Emanuel
-    location: Jenseits
+    location: Jenseits im Viadukt
     city: Zürich
 -
-    date: 14.9.13
-    act: Vineyard Bern
-    location: Vineyard Bern
+    date: 14.09.2013
+    act: 1blick
+    location: Vineyard
     city: Bern
 -
-    date: 11.9.13
-    act: Militärmusik
-    location: Stadthalle
-    city: Laufenburg
--
-    date: 10.9.13
-    act: Militärmusik
-    location: Festhalle
-    city: Sempach
--
-    date: 7.9.13
+    date: 07.09.2013
     act: David Emanuel
     location: Herzogstrassenfest
     city: Bern
 -
-    date: 5.9.13
+    date: 05.09.2013
     act: David Emanuel
-    location: WG am Theaterplatz 2
+    location: Stubenkonzerte am Theaterplatz 2
     city: Bern
 -
-    date: 17.8.13
+    date: 17.08.2013
     act: David Emanuel
-    location: Seehotel Bären
+    location: Montreux Meets Brienz
     city: Brienz
 -
-    date: 16.6.13
+    date: 06.06.2013
     act: Musical Alice
     location: Luzerner Theater
     city: Luzern
 -
-    date: 6.6.13
-    act: Musical Alice
-    location: Luzerner Theater
-    city: Luzern
--
-    date: 4.6.13
+    date: 04.06.2013
     act: David Emanuel
     location: B5 Bar
     city: Burgdorf
 -
-    date: 19.5.13
+    date: 19.05.2013
     act: Musical Alice
     location: Luzerner Theater
     city: Luzern
 -
-    date: 14.5.13
-    act: Jazzschule Luzern
-    location: Jazzkantine
-    city: Luzern
--
-    date: 2.5.13
+    date: 02.05.2013
     act: David Emanuel
     location: Mahogany Hall
     city: Bern
 -
-    date: 1.5.13
+    date: 01.05.2013
     act: David Emanuel
     location: Bundesplatz
     city: Bern
 -
-    date: 26.4.13
+    date: 26.04.2013
     act: Musical Alice
     location: Luzerner Theater
     city: Luzern
 -
-    date: 22.4.13
+    date: 22.04.2013
     act: Musical Alice
     location: Luzerner Theater
     city: Luzern
 -
-    date: 20.4.13
+    date: 20.04.2013
     act: Musical Alice
     location: Luzerner Theater
     city: Luzern
 -
-    date: 18.4.13
+    date: 18.04.2013
     act: Musical Alice
     location: Luzerner Theater
     city: Luzern
 -
-    date: 16.4.13
-    act: Jazzschule Luzern
-    location: Jazzkantine
-    city: Luzern
--
-    date: 14.4.13
+    date: 14.04.2013
     act: Musical Alice
     location: Luzerner Theater
     city: Luzern
 -
-    date: 5.4.13
+    date: 05.04.2013
     act: Musical Alice
     location: Luzerner Theater
     city: Luzern
 -
-    date: 28.3.13
+    date: 28.03.2013
     act: Musical Alice
     location: Luzerner Theater
     city: Luzern
 -
-    date: 21.1.13
-    act: Jazzschule Luzern
-    location: Jazzkantine
-    city: Luzern
--
-    date: 11.12.12
+    date: 11.12.2012
     act: David Emanuel
     location: Cabaret Voltaire
     city: Zürich
 -
-    date: 6.12.12
+    date: 06.12.2012
     act: David Emanuel
     location: Klangkartoffel im Progr
     city: Bern
 -
-    date: 24.11.12
+    date: 24.11.2012
     act: David Emanuel
     location: Du Nord
     city: Bern
 -
-    date: 24.11.12
-    act: David Emanuel
-    location: Du Nord
-    city: Bern
--
-    date: 3.11.12
-    act: David Emanuel
-    location: Rikschataxi
-    city: Bern
--
-    date: 13.10.12
+    date: 13.10.2012
     act: David Emanuel
     location: Unifest
     city: Bern
 -
-    date: 11.9.12
+    date: 21.09.2012
+    act: David Emanuel
+    location: Nachtmarkt
+    city: Burgdorf
+-
+    date: 11.09.2012
     act: David Emanuel
     location: ONO
     city: Bern
 -
-    date: 29.6.12
+    date: 08.08.2012
+    act: David Emanuel
+    location: Montreux Meets Brienz
+    city: Brienz
+-
+    date: 30.06.2012
+    act: David Emanuel
+    location: Quartierfest Bürenpark
+    city: Bern
+-
+    date: 29.06.2012
     act: David Emanuel
     location: Woodrock
-    city: Oberiberg
+    city: Moosegg
 -
-    date: 15.6.12
+    date: 15.06.2012
     act: David Emanuel
     location: Carambolage
     city: Basel
 -
-    date: 16.5.12
+    date: 16.05.2012
     act: David Emanuel
     location: Konzepthalle 6
     city: Thun
 -
-    date: 5.5.12
+    date: 05.05.2012
     act: David Emanuel
-    location: Aufgetischt
+    location: aufgetischt
     city: St. Gallen
 -
-    date: 4.5.12
+    date: 04.05.2012
     act: David Emanuel
-    location: Aufgetischt
+    location: aufgetischt
     city: St. Gallen
 -
-    date: 2.5.12
+    date: 02.05.2012
     act: David Emanuel
     location: Rössli
     city: Bern
 -
-    date: 28.2.12
+    date: 28.02.2012
     act: David Emanuel
     location: Du Nord
     city: Bern
 -
-    date: 10.12.11
+    date: 10.12.2011
     act: David Emanuel
     location: ONO
     city: Bern
 -
-    date: 5.10.11
+    date: 05.10.2011
     act: David Emanuel
     location: Piazza Bar
     city: Bern
 -
-    date: 13.8.11
+    date: 13.08.2011
     act: David Emanuel
     location: Buskers
+    city: Bern
+-
+    date: 12.10.2010
+    act: David Emanuel
+    location: Buskers
+    city: Bern
+-
+    date: 06.09.2010
+    act: David Emanuel
+    location: Muristalden
+    city: Bern
+-
+    date: 08.07.2010
+    act: 'Misherman''s Friends'
+    location: Curlinghalle
+    city: Bern
+-
+    date: 27.02.2009
+    act: 'Misherman''s Friends'
+    location: KKL
+    city: Luzern
+-
+    date: 01.11.2008
+    act: 'Misherman''s Friends'
+    location: Shakira
     city: Bern
