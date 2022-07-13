@@ -30,6 +30,11 @@
     location: Pfadi Folk Fest
     city: Plagne
 -
+    date: 09.09.2022
+    act: Steven Andrews
+    location: Mahogany Hall
+    city: Bern
+-
     date: 20.08.2022
     act: Irina Mossi
     location: Bänklifestival
@@ -46,6 +51,11 @@
     city: Bern
 -
     date: 30.07.2022
+    act: Caroline Nukula
+    location: Lakelive
+    city: Biel
+-
+    date: 30.07.2022
     act: Jay Jules
     location: Lakelive
     city: Biel
@@ -54,6 +64,16 @@
     act: MISS C-LINE
     location: Schwimmbad
     city: Wolhusen
+-
+    date: 23.07.2022
+    act: Jay Jules
+    location: Mokka
+    city: Thun
+-
+    date: 21.07.2022
+    act: Irina Mossi
+    location: Summerjam
+    city: Solothurn
 -
     date: 20.07.2022
     act: Irina Mossi
