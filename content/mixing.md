@@ -19,8 +19,11 @@ I work as a mixing engineer for both live recordings and studio work. Please [ge
 
 ## Mixing History
 
-- {{< urltargetblank "Garbage Collection by REEL BEETZ (2016) – mixing of the album" "https://www.youtube.com/watch?v=HTTpwXerRP8&list=OLAK5uy_lrvtmDxT3Cfanvi9y85rmNef5hT3dLsLY" >}}
-- {{< urltargetblank "Live Concert by MISS C-Line (2021) – live recording and mixing for the video" "https://vimeo.com/592367884/d9865bced2" >}}
-- {{< urltargetblank "The Talk! by The Talk! (2020) – mixing of the track" "https://www.youtube.com/watch?v=c48Ht2xGQCY" >}}
-- {{< urltargetblank "The Talk! Mixtape by The Talk! (2020) – mixing of the live album" "https://album.link/s/3QmPyBBxPL0uvM1W8VbsDd" >}}
-- {{< urltargetblank "Upside Down EP by REEL BEETZ (2016) – mixing of the EP" "https://www.youtube.com/watch?v=jQxEOg2G0xw&list=OLAK5uy_kDLxq-HpWXCIHQSGdUWiPjPczW3mt8dQg" >}}
+- Lost & Found by James Iwa and REEL BEETZ (2023) - full album
+- {{< urltargetblank "Trappist 1-d by Jay Jules (2023) - full album" "https://reelbeetz.ch/now/" >}}
+- {{< urltargetblank "The Fire (Live) by Steven Andrews (2022) – single track" "https://www.instagram.com/p/CkNNLoiDmdV" >}}
+- {{< urltargetblank "Garbage Collection by REEL BEETZ (2022) – full album" "https://www.youtube.com/watch?v=HTTpwXerRP8&list=OLAK5uy_lrvtmDxT3Cfanvi9y85rmNef5hT3dLsLY" >}}
+- {{< urltargetblank "Live Concert by MISS C-Line (2021) – live recording and mixing" "https://vimeo.com/592367884/d9865bced2" >}}
+- {{< urltargetblank "The Talk! by The Talk! (2020) – single track" "https://www.youtube.com/watch?v=c48Ht2xGQCY" >}}
+- {{< urltargetblank "The Talk! Mixtape by The Talk! (2020) – full live album" "https://album.link/s/3QmPyBBxPL0uvM1W8VbsDd" >}}
+- {{< urltargetblank "Upside Down EP by REEL BEETZ (2016) – EP" "https://www.youtube.com/watch?v=jQxEOg2G0xw&list=OLAK5uy_kDLxq-HpWXCIHQSGdUWiPjPczW3mt8dQg" >}}
