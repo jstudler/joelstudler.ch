@@ -1,5 +1,50 @@
 ---
 -
+    date: 27.08.2023
+    act: MISS C-LINE
+    location: Jazzcampus
+    city: Basel
+-
+    date: 26.08.2023
+    act: MISS C-LINE
+    location: Badenfahrt
+    city: Baden
+-
+    date: 06.08.2023
+    act: Vida Vocal
+    location: Brienzersee Rockfestival
+    city: Brienz
+-
+    date: 05.08.2023
+    act: Irina Mossi
+    location: GloryFestival
+    city: Bern
+-
+    date: 04.08.2023
+    act: Steven Andrews
+    location: Ciné Happening
+    city: Lyss
+-
+    date: 02.08.2023
+    act: Irina Mossi
+    location: Forum de Bilinguisme @Lakelive
+    city: Biel
+-
+    date: 15.07.2023
+    act: Irina Mossi
+    location: Kammagarnsommer
+    city: Schaffhausen
+-
+    date: 23.06.2023
+    act: Irina Mossi
+    location: 'Mont''ain open air'
+    city: Lausanne
+-
+    date: 09.06.2023
+    act: Irina Mossi
+    location: Generationenhaus
+    city: Bern
+-
     date: 26.05.2023
     act: Irina Mossi
     location: Schloss Schwarzenburg
@@ -22,8 +67,13 @@
 -
     date: 14.04.2023
     act: Steven Andrews
-    location: Bruchbar
+    location: Bruuchbar
     city: Jegenstorf
+-
+    date: 05.04.2023
+    act: MISS C-LINE
+    location: Kaserne
+    city: Basel
 -
     date: 31.03.2023
     act: Irina Mossi
