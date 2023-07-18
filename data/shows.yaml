@@ -1,5 +1,30 @@
 ---
 -
+    date: 07.12.2023
+    act: MISS C-LINE
+    location: Mehrspur
+    city: Zürich
+-
+    date: 21.10.2023
+    act: Steven Andrews
+    location: Scala
+    city: Wetzikon
+-
+    date: 02.09.2023
+    act: Steven Andrews
+    location: Dorffest
+    city: Jegenstorf
+-
+    date: 01.09.2023
+    act: MISS C-LINE
+    location: JKF Festival
+    city: Basel
+-
+    date: 31.08.2023
+    act: The Talk!
+    location: Schütz Sommerbühne
+    city: Bern
+-
     date: 27.08.2023
     act: MISS C-LINE
     location: Jazzcampus
@@ -34,6 +59,16 @@
     act: Irina Mossi
     location: Kammagarnsommer
     city: Schaffhausen
+-
+    date: 05.07.2023
+    act: Irina Mossi
+    location: Hafenbar
+    city: Bodensee
+-
+    date: 24.06.2023
+    act: Jay Jules
+    location: Alternativliga
+    city: Bern
 -
     date: 23.06.2023
     act: Irina Mossi
